@@ -1,0 +1,10 @@
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\bin\Debug\U200920021_TAKIM.exe.config
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\bin\Debug\U200920021_TAKIM.exe
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\bin\Debug\U200920021_TAKIM.pdb
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.csproj.AssemblyReference.cache
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.Form1.resources
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.Properties.Resources.resources
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.csproj.GenerateResource.cache
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.csproj.CoreCompileInputs.cache
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.exe
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_TAKIM\obj\Debug\U200920021_TAKIM.pdb
